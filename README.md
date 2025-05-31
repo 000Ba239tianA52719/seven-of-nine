@@ -37,7 +37,7 @@ Creates an anonymous vote.
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/YOUR_USERNAME/seven-of-nine.git
+   git clone https://github.com/000Ba239tianA52719/seven-of-nine.git
    cd seven-of-nine
 ```
 2. (Optional but recommended) Create and activate a Python virtual environment:
