@@ -1,0 +1,30 @@
+# Ignore environment variable files
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment folder
+venv/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# SQLite database files (if you want to exclude local DB files)
+*.sqlite3
+*.db
+
+# IDE/editor configs (optional, add yours if needed)
+.vscode/
+.idea/
