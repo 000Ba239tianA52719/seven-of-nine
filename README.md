@@ -65,7 +65,7 @@ Creates an anonymous vote.
    DISCORD_TOKEN=your-bot-token-here
    GUILD_ID=your-guild-id-here
 ```
-Save the file by pressing Ctrl + X, then type y; Rename the file to .env and confirm with y.
+Save the file by pressing Ctrl + X, then type y; Rename the file to .env , hit enter and confirm with y.
 
 5. Run the bot:
 
