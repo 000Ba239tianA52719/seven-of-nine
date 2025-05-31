@@ -1,7 +1,3 @@
-Got it! Here’s your README snippet with each shell command or command group inside its own fenced code block using ```bash, making it clean and nicely highlighted on GitHub:
-
----
-
 # Seven of Nine – Anonymous Role-Based Voting Bot 🤖
 
 A Discord bot for anonymous voting, limited to users with a specific role. Created as part of the Collective. Resistance is futile.
